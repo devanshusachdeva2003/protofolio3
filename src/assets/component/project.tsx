@@ -43,7 +43,7 @@ const Projects = () => {
 
             <div className="rounded-lg shadow-lg p-6 w-full max-w-sm">
               <img
-                src="https://img.sanishtech.com/u/ecb6f0005d77ad5315a755c5ae808170.png"
+                src="chat.png"
                 alt="Chatbot"
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
@@ -69,7 +69,7 @@ const Projects = () => {
 
             <div className="rounded-lg shadow-lg p-6 w-full max-w-sm">
               <img
-                src="https://img.sanishtech.com/u/468c55301406df876a467af76314de56.png"
+                src="prot.png"
                 alt="Portfolio"
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
@@ -96,7 +96,7 @@ const Projects = () => {
 
             <div className="rounded-lg shadow-lg p-6 w-full max-w-sm">
               <img
-                src="https://img.sanishtech.com/u/58592586f0010bf8c44438094577aa56.png"
+                src="ecoom.png"
                 alt="E-Commerce"
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
