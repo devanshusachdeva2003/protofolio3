@@ -16,7 +16,7 @@ const Projects = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 place-items-center">
             <div className="rounded-lg shadow-lg p-6 w-full max-w-sm">
               <img
-                src="https://img.sanishtech.com/u/2ffe62bc3b7ba57be7a7d2c0062136e5.png"
+                src="note.png"
                 alt="Note App"
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
@@ -57,7 +57,7 @@ const Projects = () => {
 
               <div className="flex justify-center space-x-4">
                 <a
-                  href="https://your-live-chatbot.com"
+                  href="https://dschat-ruddy.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-green-500 text-white py-2 px-4 rounded-md hover:bg-green-600"
