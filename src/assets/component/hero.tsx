@@ -1,7 +1,5 @@
 
 // src/components/Header.tsx
-
-import React from 'react';
 import Reveal from './Reveal';
 
 const onlink =()=>{

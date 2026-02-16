@@ -1,6 +1,5 @@
 // src/components/Contact.tsx
 
-import React from 'react';
 import Reveal from './Reveal';
 const Contact = () => {
   return (
