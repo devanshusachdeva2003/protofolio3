@@ -69,22 +69,21 @@ const Projects = () => {
 
             <div className="rounded-lg shadow-lg p-6 w-full max-w-sm">
               <img
-                src="prot.png"
+                src="startup.png"
                 alt="Portfolio"
                 className="w-full h-48 object-cover rounded-lg mb-4"
               />
 
               <h3 className="text-xl text-amber-100 font-semibold mb-2">
-                Portfolio
+                Startup
               </h3>
               <p className="text-amber-100 mb-4">
-                My personal portfolio to showcase my web development skills and
-                projects.
+               This is my startup clo
               </p>
 
               <div className="flex justify-center space-x-4">
                 <a
-                  href="https://yourportfolio.com"
+                  href="https://dsstartup1.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-green-500 text-white py-2 px-4 rounded-md hover:bg-green-600"
@@ -111,7 +110,7 @@ const Projects = () => {
 
               <div className="flex justify-center space-x-4">
                 <a
-                  href="https://your-live-ecommerce.com"
+                  href="https://dsecomm.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-green-500 text-white py-2 px-4 rounded-md hover:bg-green-600"
